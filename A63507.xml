@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true description of Jamaica with the fertility, commodities, and healthfulness of the place. As also the towns, havens, creeks, promontories, and the circuit of the whole island.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63507</idno>
+            <idno type="STC">Wing T2675</idno>
+            <idno type="STC">ESTC R219384</idno>
+            <idno type="EEBO-CITATION">99830862</idno>
+            <idno type="PROQUEST">99830862</idno>
+            <idno type="VID">35323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true description of Jamaica with the fertility, commodities, and healthfulness of the place. As also the towns, havens, creeks, promontories, and the circuit of the whole island.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jamaica --  Early works to 1800.</term>
+               <term>Voyages and travels --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35323:1" rendition="simple:additions"/>
+            <pb facs="tcp:35323:1" rendition="simple:additions"/>
+            <p>A True DESCRIPTION OF JAMAICA, With the Fertility, Commodities, and Healthfulneſs of the place.</p>
+            <p>
+               <hi>As alſo</hi> The Towns, Havens, Creeks, Pro<g ref="char:EOLhyphen"/>montories, and the Circuit of the whole Iſland.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35323:2"/>
+            <pb n="1" facs="tcp:35323:2" rendition="simple:additions"/>
+            <head>A True DESCRIPTION OF JAMAICA, With the Fertility, Commodities, and Healthfulneſs of the Place.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Iſland is ſcituated Weſt from <hi>Hiſpaniola,</hi> South from <hi>Cuba,</hi> which <hi>Columbus</hi> here<g ref="char:EOLhyphen"/>tofore called the Iſle of St. <hi>Iames,</hi> but its now better known by the name of <hi>Ia<g ref="char:EOLhyphen"/>maica.</hi> The eighteenth De<g ref="char:EOLhyphen"/>gree of Northern Latitude cuts the middle of it. It is of equal diſtance from
+<pb n="2" facs="tcp:35323:3"/>the two former great Iſlands, <hi>viz.</hi> twenty Leagues from each. The compaſs or circuit of the Iſland is an hundred and fifty leagues; its length from Eaſt to Weſt is fifty leagues, the bredth is twenty, or better. This Iſland excels the others for the goodneſs both of the Ayr, and bounty of the ſoyl, it is for the moſt part a plain and even Country, yeilding in great abundance whatſoever is neceſſa<g ref="char:EOLhyphen"/>ry for mans life. It breeds and nouriſhes very great ſtore of Horſes, Bulls, Cows, and Hogs: The Yucam (whereof Caſſavi is made) is ſo plenteous, as that this Iſland (and moſt deſervedly) may be reckoned the Granary of the reſt of the Iſlands; Cotton-wool grows very frequently up and down the Iſland, which makes it to excel moſt in clo<g ref="char:EOLhyphen"/>thing; alſo whatever fruits God and Nature have planted from the beginning, or have by the indu<g ref="char:EOLhyphen"/>ſtry and diligence of man been tranſplanted thi<g ref="char:EOLhyphen"/>ther from any other part, do thrive in this Land wonderfully. The Spaniards, when firſt they ar<g ref="char:EOLhyphen"/>rived here, found the Iſland very well furniſhed with barbarous people, which ſince are ſtrangely decreaſed; partly through the cruelty of their Lords, partly by reaſon of their own ſloth and idleneſs.</p>
+            <p>The Towns here (conſidering the bravery and goodneſs of the Iſland) are but few in number: at this day not above three, the chief of which is <hi>Sevil,</hi> upon the North ſide of the Iſland, not far from the Sea. Here was an Abbaty, whereof <hi>Peter Martyr,</hi> that famous Writer of the Indian
+<pb n="3" facs="tcp:35323:3"/>affairs, was ſomtimes Abbot. The next Town to this, at an eleven Leagues diſtance Eaſtward, ſtands <hi>Melilla,</hi> famous for <hi>Columbus</hi> his Shipwrack, when in a tempeſtuous paſſage that he had from <hi>Veragua,</hi> he would ſo gladly have put in thither. The third Town is <hi>Oriſtan,</hi> upon the weſt ſide of the Iſland, fourteen Leagues from Sevil: But of the City <hi>de la Vega,</hi> whence the <hi>Columbi</hi> had the Title of their Dukedom, there is ſcarce at this time any memorial or remembrance.</p>
+            <p>A great part of this Iſland, with the chief City of it, was ſubdued in the year 1596, by Sir <hi>An<g ref="char:EOLhyphen"/>thony Sherley.</hi>
+            </p>
+            <p>The Sea ſhore, where it moſt vergeth and bend<g ref="char:EOLhyphen"/>eth it ſelf toward the Eaſt, hath the high Promon<g ref="char:EOLhyphen"/>tory <hi>Moranta</hi> upon it, from which the ſaid ſhore goes back by little and little toward the Southweſt, taking in the Sea in certain Creeks, then it goes di<g ref="char:EOLhyphen"/>rectly forward toward the Weſt ſo far as to the Promontory <hi>de Falcon,</hi> whence it turns to the weſt<g ref="char:EOLhyphen"/>ward, till it come to the Promontory <hi>del Negrillo,</hi> which lies outmoſt to the Weſt, from thence again the ſhore turns in towards the Eaſt: In the Nor<g ref="char:EOLhyphen"/>thern quarter of it, it hath many Stations and Ports, the chief of which lies nigh to <hi>Sevil,</hi> the next to <hi>Melilla,</hi> ten leagues from the former to the Eaſtward; the third <hi>Ianta,</hi> a like diſtance off, ten leagues from the former, and as many from the Promontory of <hi>Moranta,</hi> towards the weſt.</p>
+            <p>In ſhort, this Iſland for the richneſs and good<g ref="char:EOLhyphen"/>neſs of the ſoyl, for the pleaſantneſs of its woods,
+<pb n="4" facs="tcp:35323:4"/>and the abundance of all good things, may very well contend with any other of the American Iſlands whatever, and in this reſpect excels them, that it hath ſo convenient and advantagious a ſcitu<g ref="char:EOLhyphen"/>ation between the greater Iſlands and the Weſtern Continent of <hi>America:</hi> So as if our Countrymen would but raiſe up their dull ſpirits, and ſeriouſly ſet themſelves to plant there, they would not only exceedingly advance the Publique Intereſt, and be<g ref="char:EOLhyphen"/>nefit their Native Country, but very much advan<g ref="char:EOLhyphen"/>tage and enrich themſelves, their children, and po<g ref="char:EOLhyphen"/>ſterity; there being no Adventure or Merchan<g ref="char:EOLhyphen"/>dize in any part of the world undertaken as yet by the Engliſh, that is like to be of leſs hazard, and more certain profit, as evidently appears, in that he that firſt diſcovered theſe Countries, and beſt knew to make his choice, was only a Suitor for this Iſland; and when afterward he was asked by the Portugal why he did not cauſe the mines there to be wrought; he made anſwer, They would firſt go farther off, and when they had wrought out thoſe, they would return thither, being a place nearer home, and of great ſecurity. I need not inform you of the great variety of Fiſh, and Fowl, nor the healthfulneſs of the place, when a man hath ſome little time been acquainted with the Ayr.</p>
+            <p>And ſo my Countrymen, wiſhing ſuch noble thoughts to poſſeſs your ſouls, as may encline you to ſome gallant endeavour and undertaking herein, that after times may ſay, this active Age hath not conſin'd us to one poor corner of the earth, but
+<pb n="5" facs="tcp:35323:4"/>ſtirr'd us up to look upon that which the negli<g ref="char:EOLhyphen"/>gence of our Anceſtors did cauſe them ſo unhap<g ref="char:EOLhyphen"/>pily to foreſlow and forſake, I recommend you to the direction and Aſſiſtance of the Almighty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
